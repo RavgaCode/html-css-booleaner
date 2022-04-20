@@ -10,36 +10,56 @@
     width: 96%;
     margin: auto;
 }
-/* Header */
+    /* Header */
 
-#logo{
-    width: 200px;
-    margin-top: 4%;
-}
-.intestazione{
-    background-color: #4EA0FF;
-    background-image: url(../img/pattern.png);
-    background-size: 500px;
-    background-repeat: repeat;  
-}
+        #logo{
+            width: 200px;
+            margin-top: 4%;
+        }
+        .intestazione{
+            background-color: #4EA0FF;
+            background-image: url(../img/pattern.png);
+            background-size: 500px;
+            background-repeat: repeat;  
+        }
 
-/* Main */
-.titolo{
-    margin-top: 15px;
-    font-size: 3vw; 
-}
-.sottotitolo{
-    color: #848484;
-    font-size: 1.2em;
-}
-#autore{
-    color: #26ABE6;
-}
-.data{
-    color: #848484;
-    font-size: 1em;
-    margin-bottom: 15px;
-}
-.didascalia{
-    font-size:0.8em;
-}
+    /* Main */
+        .titolo{
+            margin-top: 15px;
+            font-size: 3vw; 
+        }
+        .sottotitolo{
+            color: #848484;
+            font-size: 1.2em;
+        }
+        #autore{
+            color: #26ABE6;
+        }
+        .data{
+            color: #848484;
+            font-size: 1em;
+            margin-bottom: 15px;
+        }
+        .didascalia{
+            font-size:0.8em;
+        }
+        .spazio-testo{
+            margin-top:15px;
+            margin-bottom:15px;
+        }
+
+        /* Tabella */
+        .toptabella{
+            background-color: #20A9E5;
+            color: white;
+            height: 10px;   
+        }
+        .riga-dispari{
+            background-color: #B1E5F2;
+        }
+        .riga-pari{
+            background-color: white;
+        }
+        .terza-colonna{
+            width: 50%;
+        }
