@@ -1,0 +1,25 @@
+/*RESET*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Container */
+.container{
+    width: 96%;
+    margin: auto;
+}
+/* Header */
+
+#logo{
+    width: 200px;
+    margin-top: 4%;
+}
+.intestazione{
+    background-color: #4EA0FF;
+    background-image: url(../img/pattern.png);
+    background-size: 500px;
+    background-repeat: repeat;
+    
+}
