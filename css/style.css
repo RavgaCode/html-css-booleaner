@@ -47,6 +47,12 @@
             margin-top:15px;
             margin-bottom:15px;
         }
+        .evidenziato-giallo{
+            background-color: yellow;
+        }
+        ul{
+            margin-left: 1%;
+        }
 
         /* Tabella */
         .toptabella{
@@ -63,3 +69,26 @@
         .terza-colonna{
             width: 50%;
         }
+
+    /* Footer */
+    .titolo-fine-immagini{
+        color: #848484;
+        font-size: 1.2em;
+        margin-bottom: 10px;
+    }
+    #articolo1{
+        color: white;
+        font-size: 25px;
+        background-image: url(../img/monitor.jpg);
+        height: 200px;
+        background-repeat: no-repeat;
+        margin-bottom: 10px;
+    }
+    #articolo2{
+        color: white;
+        font-size: 25px;
+        background-image: url(../img/graph.jpg);
+        height: 200px;
+        background-repeat: no-repeat;
+        margin-bottom: 10px;
+    }
